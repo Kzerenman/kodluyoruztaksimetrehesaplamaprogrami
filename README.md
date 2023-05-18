@@ -1,0 +1,2 @@
+# kodluyoruztaksimetrehesaplamaprogrami
+Kodluyoruz Eğitimi kapsamında taksimetre hesaplama programı
